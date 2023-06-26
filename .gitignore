@@ -120,11 +120,11 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
+# Spyder 01.food settings
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope 01.food settings
 .ropeproject
 
 # mkdocs documentation
